@@ -1,0 +1,13 @@
+streamlit>=1.42,<2
+openai>=1.101,<3
+python-dotenv>=1,<2
+pymupdf>=1.25,<2
+chromadb>=1.0,<2
+tiktoken>=0.9,<1
+pydantic>=2.9,<3
+numpy>=1.26,<3
+pandas>=2.2,<3
+rank-bm25>=0.2.2,<1
+transformers>=4.51,<5
+torch>=2.4,<3
+sentencepiece>=0.2,<1

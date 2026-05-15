@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env
+.streamlit/secrets.toml
+venv
+.venv
+__pycache__
+.pytest_cache
+.ruff_cache
+data/runtime
+data/exports
+*.zip

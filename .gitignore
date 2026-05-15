@@ -1,0 +1,16 @@
+.env
+.streamlit/secrets.toml
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.DS_Store
+.vscode/
+data/runtime/*
+!data/runtime/.gitkeep
+data/exports/*
+!data/exports/.gitkeep
+*.log
